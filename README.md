@@ -48,6 +48,4 @@ Freelancer with expertise in data analysis, machine learning, and full-stack sol
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-subhajit&show_icons=true&theme=default&hide_title=true&hide_border=true)
 
----
-
 💬 Open for collaborations and exciting opportunities in data science and software development!
