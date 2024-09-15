@@ -46,6 +46,13 @@ Freelancer with expertise in data analysis, machine learning, and full-stack sol
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-subhajit&show_icons=true&theme=default&hide_title=true&hide_border=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-subhajit&show_icons=true&theme=dark&hide_title=true&hide_border=true)
+
+## Profile Visits
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/developer-subhajit/count.svg?"  />
+</div>
 
 💬 Open for collaborations and exciting opportunities in data science and software development!
