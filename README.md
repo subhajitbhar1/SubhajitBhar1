@@ -1,4 +1,4 @@
-# <div align="center">👋 Hi, I'm Subhajit Jit()</div>
+# <div align="center">👋 Hi, I'm Subhajit (Jit)</div>
 
 <div align="center">
   
