@@ -9,9 +9,7 @@ I am a Freelance Data Scientist, building applications with Foundation Models.
 <h3>Connect with me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajitbhar1/)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:SubhajitBhar1)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/subhajitbhar1)
-
 </div>
 <!-- 
 <div align="center">
