@@ -1,13 +1,19 @@
-# <div align="center">👋 Hi, I'm Subhajit (Jit)</div>
+# <div align="center">👋 Hi, I'm Subhajit Bhar</div>
+
+I am a Freelance Data Scientist, building applications with Foundation Models.
+
+- Read my tech blogs on [Medium](https://medium.com/@subhajitbhar1)
+- Also, I write technical articles on my [Personal website](https://blog.subhajitbhar.com/)
 
 <div align="center">
-  
+<h3>Connect with me</h3>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajit-bhar/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BuildWithJit/)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:SubhajitBhar1)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/sbhar)
 
 </div>
-
+<!-- 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 </div>
@@ -70,4 +76,4 @@ I work with various industries like finance, business, and research to help them
 <div align="center">
   <h3>👥 Profile Visits</h3>
   <img src="https://profile-counter.glitch.me/developer-subhajit/count.svg?" />
-</div>
+</div> -->
