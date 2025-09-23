@@ -5,6 +5,7 @@ I am a Freelance Data Scientist, building applications with Foundation Models.
 - Read my tech blogs on [Medium](https://medium.com/@subhajitbhar1)
 - Also, I write technical articles on my [Personal website](https://blog.subhajitbhar.com/)
 
+
 <div align="center">
 <h3 >Connect with me</h3>
 <a href="mailto:hello@subhajitbhar.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-hello%40subhajitbhar.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: hello@subhajitbhar.com" /></a>
