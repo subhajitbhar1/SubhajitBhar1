@@ -3,7 +3,7 @@
 I am a Freelance Data Scientist, building applications with Foundation Models.
 
 - Read my tech blogs on [Medium](https://medium.com/@subhajitbhar1)
-- Also, I write technical articles on my [Personal website](https://blog.subhajitbhar.com/)
+- Also, I write technical articles on my [Personal website](https://subhajitbhar.com/blogs)
 
 
 <div align="center">
